@@ -44,6 +44,9 @@
     },{
       question:"What's my favorite color? ",
       answer: "black"
+    },{
+      question:"What type of games do I like the most? ",
+      answer: "console games"
     }];
 
   // accesing objects via .
@@ -68,11 +71,11 @@
   // for storing high score data 
 
   var scorer = [{
-    name : "Jay",
-    highscore: "6",
+    name : "Shed",
+    highscore: "7",
   },{
-    name : "Om",
-    highscore: "5"
+    name : "Jay",
+    highscore: "6"
   }]
   console.log(   )
   console.log(chalk.blue("They are the high scorers"))
